@@ -40,7 +40,7 @@ Traffic info
 <br/>
 <h2>Challenges of monitoring</h2>
 <br/>
-<h3>1. Deciding which metrics are really necessary and which is not important for the case.</h3>
+<h3>1. Deciding which metrics are really necessary and which are not important for the case.</h3>
 <br/>
 <h3>2. Proper choice and setting of the monitoring system, so it won't influence server's performance.</h3>
 <br/>
